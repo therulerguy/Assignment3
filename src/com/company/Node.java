@@ -21,7 +21,6 @@ public class Node {
 
     public void setKey(String s){
         key = s;
-
     }
 
     public int getValue(){
